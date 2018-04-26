@@ -1,5 +1,5 @@
 # AI_Implementation_8puzzle
-Myself and two other students used my 8_puzzle program for an AI project. The program uses a knowledge base off test data and decides whether a DFS or BFS search is the best for navigating through a tree of heuristic values. 
+Myself and two other students used my 8_puzzle program for an AI project. The program uses a knowledge base of test data and decides whether a DFS or BFS search is the best for navigating through a tree of heuristic values. 
 
 # Decision Process
 The decision process compares a mean score of the number of moves from our knowledge base of boards having the same intitial top row. We understand the decision process is not ideal, but was a good starting point for an intro AI project.  
